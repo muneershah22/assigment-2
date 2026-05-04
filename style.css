@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cantaner{
+    background-color: rgb(169, 169, 182);
+    min-height: 100vh;
+    border: 10px solid rgb(4, 4, 39)
+}
+.contant{
+    max-width: 900px;
+    margin:0 auto;
+}
+.one{
+text-align: center;
+margin-top: auto;
+font-size: 30px;
+font-weight: bold;
+
+}
+
+.image contaner,img{
+    width: 250px;
+    height: 250px;
+}
+.image{
+    margin-top: 100px;
+    border-radius: 50px;
+    overflow: hidden;
+}
+footer{
+    margin: 59px;
+    text-align: right;
+}
